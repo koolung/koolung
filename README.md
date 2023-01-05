@@ -1,4 +1,4 @@
-![](https://github.com/k33ptoo/k33ptoo/blob/main/banner2.png)
+![](https://github.com/k33ptoo/k33ptoo/blob/main/banner2.pngf)
 
 ### Hi there 👋 My name is TAE and I love UI design
 
