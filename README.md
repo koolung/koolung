@@ -1,3 +1,5 @@
+![](https://github.com/k33ptoo/k33ptoo/blob/main/banner2.png)
+
 ### Hi there 👋 My name is TAE and I love UI design
 
 *Bachelor's Degree in Comp Sci Major from SMU*
