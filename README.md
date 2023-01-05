@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a number of projects with /br
-    - Jira Atlasian UI using JavaFX /br
-    - Swing(using Kotlin and Java) /br
-    - Website Development(React and php) /br
+- 🔭 I’m currently working on a number of projects with 
+    - Jira Atlasian UI using JavaFX 
+    - Swing(using Kotlin and Java) 
+    - Website Development(React and php)
     
 - 🌱 I’m currently learning Agile software development process
 
