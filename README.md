@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is TAE and I love UI design
 
-*Bachelor's Degree in Comp Sci Major from SMU*
+*Bachelor's Degree in Comp Sci from SMU*
 
 Here are some ideas to get you started:
 
